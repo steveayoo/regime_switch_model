@@ -1,0 +1,11 @@
+Region,Regime,Drift_per_week,Volatility_per_week,Jump_Intensity_per_year
+SG,Base,-0.5056,8.676,0.0
+SG,Jump,0.8109,45.0277,13.48
+Rot,Base,0.4511,7.4244,0.0
+Rot,Jump,-4.1553,35.0918,11.4
+Fuj,Base,-0.5871,8.2557,0.0
+Fuj,Jump,-0.0065,38.898,13.3
+Hou,Base,-0.3094,6.5932,0.0
+Hou,Jump,-0.3586,27.0505,13.4
+Pan,Base,0.1559,9.6421,0.0
+Pan,Jump,-5.9902,37.4191,9.14
